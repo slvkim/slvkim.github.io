@@ -8,35 +8,41 @@
 </head>
 <body>
     <header>
-        <h1>John Doe</h1>
-        <p>Android Software Engineer</p>
+        <div class="container">
+            <h1>John Doe</h1>
+            <p>Android Software Engineer</p>
+            <nav>
+                <ul>
+                    <li><a href="#work-experience">Work Experience</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Hire Me</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
-    <nav>
-        <ul>
-            <li><a href="#work-experience">Work Experience</a></li>
-            <li><a href="#education">Education</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Hire Me</a></li>
-        </ul>
-    </nav>
     <main>
-        <section id="work-experience">
+        <section id="work-experience" class="container">
             <h2>Work Experience</h2>
             <h3>Android Software Engineer, Largest Bank in Russia</h3>
             <p>Developed features from Figma designs and managed technical debt. Implemented an API-first approach with Jenkins. The app supports small entrepreneurs with over 30 Gradle modules for product features.</p>
         </section>
-        <section id="education">
+        <section id="education" class="container">
             <h2>Education</h2>
             <p>Bachelor's Degree in Computer Science, XYZ University</p>
         </section>
-        <section id="projects">
+        <section id="projects" class="container">
             <h2>Projects</h2>
-            <h3><a href="#">Mobile Banking App</a></h3>
-            <p>An application for small entrepreneurs to manage documents and tax calculations. Collaborated with designers and product managers to deliver a high-quality product.</p>
-            <h3><a href="#">Another Key Project</a></h3>
-            <p>Brief description of the project. Key achievements and technologies used.</p>
+            <div class="project">
+                <h3><a href="#">Mobile Banking App</a></h3>
+                <p>An application for small entrepreneurs to manage documents and tax calculations. Collaborated with designers and product managers to deliver a high-quality product.</p>
+            </div>
+            <div class="project">
+                <h3><a href="#">Another Key Project</a></h3>
+                <p>Brief description of the project. Key achievements and technologies used.</p>
+            </div>
         </section>
-        <section id="contact">
+        <section id="contact" class="container">
             <h2>Contact</h2>
             <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
             <p>LinkedIn: <a href="#">LinkedIn Profile</a></p>
@@ -44,7 +50,9 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 John Doe. All rights reserved.</p>
+        <div class="container">
+            <p>&copy; 2024 John Doe. All rights reserved.</p>
+        </div>
     </footer>
 </body>
 </html>
