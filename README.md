@@ -20,18 +20,18 @@ Senior software engineer with over 5 years of experience in designing, developin
 
 ### Senior Software Engineer
 **Epam Systems** | Tashkent, Uzbekistan | *May 2022 - August 2023*
-- Participated in the maintenance of the project consisting of over 30 Gradle modules solely for product features.
-- Implemented new features’ UI based on Figma designs.
-- Performed tasks to address technical debt, ensuring optimal performance and code quality.
-- Collaborated with designers, product managers, and QA engineers to deliver a high-quality product, supporting the financial needs of millions of small business owners.
-- Replaced third-party libraries with custom native solutions to accelerate project build time.
+- Designed, developed and maintained Android SDK for video streaming and social media interaction.
+- Collaborated with the customer integration team to investigate bugs’ origin and smoothen SDK integration.
+- Strengthened UI/UX smoothness by introducing additional asynchronous processing.
+- Utilized clean code principles and design patterns to enhance code readability.
 
 ### Software Engineer
 **Sberbank** | Moscow, Russia | *November 2021 - March 2022*
-- Assisted in the development of web applications using HTML, CSS, JavaScript, and PHP.
-- Created and maintained documentation for internal and external use.
-- Supported senior developers in debugging and testing applications.
-- Learned and implemented new technologies to improve application functionality.
+- Participated in the maintenance of the project consisting of over 30 Gradle modules solely for product features
+- Implemented new features’ UI based on Figma designs
+- Performed tasks to address technical debt, ensuring optimal performance and code quality.
+- Collaborated with designers, product managers, and QA engineers to deliver a high-quality product, supporting the financial needs of millions of small business owners.
+- Replaced third-party libraries with custom native solutions to accelerate project build time.
 
 ### Software Engineer
 **Wings Solutions** | Moscow, Russia | *April 2019 - September 2021*
@@ -54,8 +54,8 @@ Senior software engineer with over 5 years of experience in designing, developin
 - **Languages:** Kotlin, Java, SQL
 - **Frameworks/Libraries:** Android SDK
 - **Databases:** MySQL, SQLite
-- **Technoloies:** Jetpack Compose | XML View, Coroutines | RxJava | WorkManager, Room, Dagger2 | Koin, REST | WebSocket, OkHttp | Retrofit | Ktor, MVI | MVVM | MVP
-- **Tools:** Git, Docker, Jenkins, Kubernetes
+- **Technoloies:** Jetpack Compose, XML View, Coroutines, RxJava, WorkManager, Room, Dagger2, Koin, REST, WebSocket, OkHttp, Retrofit, Ktor, MVI, MVVM, MVP, ExoPlayer, PayPal, Stripe, Firebase/Huawei SDK, AppsFlyer
+- **Tools:** Git, Jira, Confluence
 
 ---
 
