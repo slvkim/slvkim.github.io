@@ -2,15 +2,6 @@
 
 #### Technical Skills: Kotlin, Java, Android SDK, SQL, Git
 
-## Contact
-- **Email:** sergey.lvovich.kim@gmail.com
-- **Phone:** +821024554709
-- **LinkedIn:** [linkedin.com/in/sergeykim](https://www.linkedin.com/in/sergey-kim-58825a1a0/)
-- **GitHub:** [github.com/slvkim](https://slvkim.github.io/)
-- **Website:** [https://slvkim.github.io/](https://slvkim.github.io/)
-
----
-
 ## Summary
 Senior software engineer with over 5 years of experience in designing, developing, and maintaining native Android applications. Proficient in Kotlin, Java, and the Android SDK, with a strong focus on writing clean, maintainable code following clean code principles and modern mobile architectures such as MVVM and MVI. Demonstrated ability to lead development projects, collaborate with cross-functional teams, and deliver high-quality mobile applications that enhance user experience.
 
@@ -19,25 +10,35 @@ Senior software engineer with over 5 years of experience in designing, developin
 ## Work Experience
 
 ### Senior Software Engineer
-**Period and pregnancy tracker.** | Hong Kong, remote | *August 2023 - Present*
-- Lead a team of 10 developers in creating innovative web applications for diverse clients.
-- Architected and developed a scalable e-commerce platform that increased client sales by 30%.
-- Implemented CI/CD pipelines, reducing deployment time by 50%.
-- Mentored junior developers and conducted code reviews to ensure code quality.
+**Period and pregnancy tracker.** | Wan Chai District, Hong Kong | *August 2023 - Present*
+- Contributed to the development of a comprehensive mobile application designed to help women track their menstrual cycles and pregnancy progress.
+- Revenue-Enhancing Features: Engineered several business features that significantly boosted company revenue and increased user screen time, enhancing overall engagement.
+- Fertility Enhancement Tools: Implemented functionalities aiding future mothers in tracking and improving their chances of conception, contributing to user satisfaction and retention.
+- Increased unit tests coverage for critical calculations, including period length, expected dates, cycle lengths, and gestational age, ensuring high accuracy and reliability of the application.
+- UI Performance Optimization: Enhanced user interface performance using Jetpack Compose, leading to improved user retention rates through a smoother and more responsive experience.
+- Introduced methods to make composable functions accessible for automation testing, improving test coverage and efficiency.
 
 ### Senior Software Engineer
-**Epam Systems** | Uzbekistan, remote | *May 2022 - August 2023*
-- Developed and maintained multiple web applications using React, Node.js, and MongoDB.
-- Collaborated with designers and product managers to deliver user-friendly interfaces.
-- Improved application performance by optimizing database queries and refactoring code.
-- Participated in Agile ceremonies and contributed to sprint planning and retrospectives.
+**Epam Systems** | Tashkent, Uzbekistan | *May 2022 - August 2023*
+- Participated in the maintenance of the project consisting of over 30 Gradle modules solely for product features.
+- Implemented new features’ UI based on Figma designs.
+- Performed tasks to address technical debt, ensuring optimal performance and code quality.
+- Collaborated with designers, product managers, and QA engineers to deliver a high-quality product, supporting the financial needs of millions of small business owners.
+- Replaced third-party libraries with custom native solutions to accelerate project build time.
 
 ### Software Engineer
-**Sberbank** | Moscow, Russia | *November 2021 - May 2022*
+**Sberbank** | Moscow, Russia | *November 2021 - March 2022*
 - Assisted in the development of web applications using HTML, CSS, JavaScript, and PHP.
 - Created and maintained documentation for internal and external use.
 - Supported senior developers in debugging and testing applications.
 - Learned and implemented new technologies to improve application functionality.
+
+### Software Engineer
+**Wings Solutions** | Moscow, Russia | *April 2019 - September 2021*
+- Defined, built and maintained Push Notifications SDK for Bank applications.
+- Performed research in Priority Buckets, Push Notifications Priority and Firmware Peculiarity to address challenges arising in app background performance.
+- Implemented logging library with the ability to auto rotate local device storage.
+- Wrapped sensitive data in NDK to prohibit reverse engineering.
 
 ---
 
@@ -50,11 +51,11 @@ Senior software engineer with over 5 years of experience in designing, developin
 
 ## Skills
 
-- **Languages:** Kotlin, Java
+- **Languages:** Kotlin, Java, SQL
 - **Frameworks/Libraries:** Android SDK
-- **Databases:** MySQL
+- **Databases:** MySQL, SQLite
+- **Technoloies:** Jetpack Compose | XML View, Coroutines | RxJava | WorkManager, Room, Dagger2 | Koin, REST | WebSocket, OkHttp | Retrofit | Ktor, MVI | MVVM | MVP
 - **Tools:** Git, Docker, Jenkins, Kubernetes
-- **Technology Stack:** Jetpack Compose, Coroutines, Room, Dagger2/Koin
 
 ---
 
