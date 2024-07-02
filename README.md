@@ -1,3 +1,12 @@
+## Contact
+- **Email:** sergey.lvovich.kim@gmail.com
+- **Phone:** +821024554709
+- **LinkedIn:** [linkedin.com/in/sergeykim](https://www.linkedin.com/in/sergey-kim-58825a1a0/)
+- **GitHub:** [github.com/slvkim](https://slvkim.github.io/)
+- **Website:** [https://slvkim.github.io/](https://slvkim.github.io/)
+
+---
+
 ## Summary
 Senior software engineer with over 5 years of experience in designing, developing, and maintaining native Android applications. Proficient in Kotlin, Java, and the Android SDK, with a strong focus on writing clean, maintainable code following clean code principles and modern mobile architectures such as MVVM and MVI. Demonstrated ability to lead development projects, collaborate with cross-functional teams, and deliver high-quality mobile applications that enhance user experience.
 
