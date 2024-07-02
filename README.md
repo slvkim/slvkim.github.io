@@ -1,7 +1,5 @@
 # Senior Software Engineer (Android, Kotlin)
 
-#### Technical Skills: Kotlin, Java, Android SDK, SQL, Git
-
 ## Summary
 Senior software engineer with over 5 years of experience in designing, developing, and maintaining native Android applications. Proficient in Kotlin, Java, and the Android SDK, with a strong focus on writing clean, maintainable code following clean code principles and modern mobile architectures such as MVVM and MVI. Demonstrated ability to lead development projects, collaborate with cross-functional teams, and deliver high-quality mobile applications that enhance user experience.
 
